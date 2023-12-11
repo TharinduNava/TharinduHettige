@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharindu Hettige</h1>
 <h3 align="center">Lankan Lines of Code: Frontend Alchemy with a Splash of Sri Lankan Spirit 🇱🇰✨</h3>
 
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<img align="center" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharindunava&label=Profile%20views&color=0e75b6&style=flat" alt="tharindunava" /> </p>
 
