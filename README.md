@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tharindu Hettige</h1>
+<h1 align="center">Hi 👋, I'm K.T.N. Hettige</h1>
 <h3 align="center">Lankan Lines of Code: Frontend Alchemy with a Splash of Sri Lankan Spirit 🇱🇰✨</h3>
 
 
